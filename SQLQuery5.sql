@@ -1,0 +1,1 @@
+﻿Select count(*) from [dbo].[Table] where username='admin' and pass='admin';

@@ -1,0 +1,1 @@
+﻿SELECT count(*) FROM [dbo].[Table] Where username='admin' AND pass='"+textBox2.Text+"'

@@ -1,0 +1,15 @@
+C:\Users\HR\source\repos\splashScreen\splashScreen\bin\Debug\splashScreen.exe.config
+C:\Users\HR\source\repos\splashScreen\splashScreen\bin\Debug\splashScreen.exe
+C:\Users\HR\source\repos\splashScreen\splashScreen\bin\Debug\splashScreen.pdb
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.Properties.Resources.resources
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.csproj.GenerateResource.Cache
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.csproj.CoreCompileInputs.cache
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.exe
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.pdb
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.Form1.resources
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.Form2.resources
+C:\Users\HR\source\repos\splashScreen\splashScreen\bin\Debug\splashScreen.exe.manifest
+C:\Users\HR\source\repos\splashScreen\splashScreen\bin\Debug\splashScreen.application
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.csprojResolveAssemblyReference.cache
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.exe.manifest
+C:\Users\HR\source\repos\splashScreen\splashScreen\obj\Debug\splashScreen.application

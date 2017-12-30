@@ -1,0 +1,10 @@
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\bin\Debug\InsertDeleteUpdateSearch.exe.config
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\bin\Debug\InsertDeleteUpdateSearch.exe
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\bin\Debug\InsertDeleteUpdateSearch.pdb
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\obj\Debug\InsertDeleteUpdateSearch.csprojResolveAssemblyReference.cache
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\obj\Debug\InsertDeleteUpdateSearch.Form1.resources
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\obj\Debug\InsertDeleteUpdateSearch.Properties.Resources.resources
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\obj\Debug\InsertDeleteUpdateSearch.csproj.GenerateResource.Cache
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\obj\Debug\InsertDeleteUpdateSearch.csproj.CoreCompileInputs.cache
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\obj\Debug\InsertDeleteUpdateSearch.exe
+C:\Users\HR\source\repos\InsertDeleteUpdateSearch\InsertDeleteUpdateSearch\obj\Debug\InsertDeleteUpdateSearch.pdb

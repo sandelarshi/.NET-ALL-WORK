@@ -1,0 +1,15 @@
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\bin\Debug\SEEDManagementSystem.exe.config
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\bin\Debug\SEEDManagementSystem.exe
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\bin\Debug\SEEDManagementSystem.pdb
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.csprojResolveAssemblyReference.cache
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.Form1.resources
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.Properties.Resources.resources
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.csproj.GenerateResource.Cache
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.csproj.CoreCompileInputs.cache
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.exe
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.pdb
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.Form2.resources
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\bin\Debug\SEEDManagementSystem.exe.manifest
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\bin\Debug\SEEDManagementSystem.application
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.exe.manifest
+D:\FYP\SEEDManagementSystem\SEEDManagementSystem\obj\Debug\SEEDManagementSystem.application

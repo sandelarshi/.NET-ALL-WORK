@@ -1,0 +1,10 @@
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\bin\Debug\sandel chruch managent system.exe.config
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\bin\Debug\sandel chruch managent system.exe
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\bin\Debug\sandel chruch managent system.pdb
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\obj\Debug\sandel chruch managent system.csprojResolveAssemblyReference.cache
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\obj\Debug\sandel_chruch_managent_system.Form1.resources
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\obj\Debug\sandel_chruch_managent_system.Properties.Resources.resources
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\obj\Debug\sandel chruch managent system.csproj.GenerateResource.Cache
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\obj\Debug\sandel chruch managent system.csproj.CoreCompileInputs.cache
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\obj\Debug\sandel chruch managent system.exe
+C:\Users\HR\source\repos\sandel chruch managent system\sandel chruch managent system\obj\Debug\sandel chruch managent system.pdb
